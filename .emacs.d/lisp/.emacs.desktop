@@ -1,0 +1,163 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Wed Aug 21 09:44:09 2019
+;; Desktop file format version 208
+;; Emacs version 26.2
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (23901 19113 686189 301000) (desktop . "208") "ivan@rd8" nil nil ((((minibuffer . t) (height . 87) (width . 171) (visibility) (display) (tty-type . "xterm-256color") (tty . "/dev/tty") (display-type . color) (background-mode . dark) (foreground-color . "white") (background-color . "black") (border-color . "white") (cursor-color . "yellow") (mouse-color . "white") (font . "tty") (modeline . t) (unsplittable) (menu-bar-lines . 1) (frameset--id . "C1F4-19E5-0764-1B06") (frameset--mini t)) ((min-height . 8) (min-width . 40) (min-height-ignore . 4) (min-width-ignore . 16) (min-height-safe . 2) (min-width-safe . 8) (min-pixel-height . 8) (min-pixel-width . 40) (min-pixel-height-ignore . 4) (min-pixel-width-ignore . 16) (min-pixel-height-safe . 2) (min-pixel-width-safe . 8)) hc (pixel-width . 171) (pixel-height . 86) (total-width . 171) (total-height . 86) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (vc (pixel-width . 86) (pixel-height . 86) (total-width . 86) (total-height . 86) (normal-height . 1.0) (normal-width . 0.5029239766081872) (combination-limit) (leaf (pixel-width . 86) (pixel-height . 43) (total-width . 86) (total-height . 43) (normal-height . 0.5) (normal-width . 1.0) (buffer "imu.sql" (selected) (hscroll . 0) (fringes 0 0 nil) (margins 3) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 299) (start . 1))) (hc (last . t) (pixel-width . 86) (pixel-height . 43) (total-width . 86) (total-height . 43) (normal-height . 0.5) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 43) (pixel-height . 43) (total-width . 43) (total-height . 43) (normal-height . 1.0) (normal-width . 0.5) (buffer "imu.nimble" (selected) (hscroll . 0) (fringes 0 0 nil) (margins 2) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 1) (start . 1))) (leaf (last . t) (pixel-width . 43) (pixel-height . 43) (total-width . 43) (total-height . 43) (normal-height . 1.0) (normal-width . 0.5) (buffer "wiish.toml" (selected . t) (hscroll . 0) (fringes 0 0 nil) (margins 2) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 1) (start . 1))))) (vc (last . t) (pixel-width . 85) (pixel-height . 86) (total-width . 85) (total-height . 86) (normal-height . 1.0) (normal-width . 0.49707602339181284) (combination-limit) (hc (pixel-width . 85) (pixel-height . 43) (total-width . 85) (total-height . 43) (normal-height . 0.5) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 42) (pixel-height . 43) (total-width . 42) (total-height . 43) (normal-height . 1.0) (normal-width . 0.49411764705882355) (buffer "imu.sql" (selected) (hscroll . 0) (fringes 0 0 nil) (margins 3) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 1) (start . 1))) (leaf (last . t) (pixel-width . 43) (pixel-height . 43) (total-width . 43) (total-height . 43) (normal-height . 1.0) (normal-width . 0.5058823529411764) (buffer "run.sh" (selected) (hscroll . 0) (fringes 0 0 nil) (margins 1) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 1) (start . 1)))) (leaf (last . t) (pixel-width . 85) (pixel-height . 43) (total-width . 85) (total-height . 43) (normal-height . 0.5) (normal-width . 1.0) (buffer "ses.vim" (selected) (hscroll . 0) (fringes 0 0 nil) (margins 3) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 1) (start . 1))))) (((minibuffer . t) (tty-type . "xterm-256color") (tty . "/dev/tty") (display-type . color) (background-mode . dark) (foreground-color . "white") (cursor-color . "yellow") (background-color . "black") (border-color . "white") (mouse-color . "white") (font . "tty") (height . 87) (width . 171) (modeline . t) (unsplittable) (menu-bar-lines . 1) (frameset--id . "01B7-7A9C-C5D1-45D4") (frameset--mini t)) ((min-height . 4) (min-width . 10) (min-height-ignore . 2) (min-width-ignore . 3) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 4) (min-pixel-width . 10) (min-pixel-height-ignore . 2) (min-pixel-width-ignore . 3) (min-pixel-height-safe . 1) (min-pixel-width-safe . 2)) leaf (pixel-width . 171) (pixel-height . 86) (total-width . 171) (total-height . 86) (normal-height . 1.0) (normal-width . 1.0) (buffer "lisp" (selected) (hscroll . 0) (fringes 0 0 nil) (margins 1) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 347) (start . 1))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring nil)
+(setq regexp-search-ring nil)
+(setq register-alist (list (desktop-list* 53 (vector 'registerv (vector [frameset 1 (23901 19089 661808 255000) register nil nil nil ((((minibuffer . t) (height . 87) (width . 171) (visibility) (display) (tty-type . "xterm-256color") (tty . "/dev/tty") (display-type . color) (background-mode . dark) (foreground-color . "white") (background-color . "black") (border-color . "white") (cursor-color . "yellow") (mouse-color . "white") (font . "tty") (modeline . t) (unsplittable) (menu-bar-lines . 1) (frameset--id . "C1F4-19E5-0764-1B06") (frameset--mini t) (buffer-list "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity") (buried-buffer-list)) ((min-height . 8) (min-width . 40) (min-height-ignore . 4) (min-width-ignore . 16) (min-height-safe . 2) (min-width-safe . 8) (min-pixel-height . 8) (min-pixel-width . 40) (min-pixel-height-ignore . 4) (min-pixel-width-ignore . 16) (min-pixel-height-safe . 2) (min-pixel-width-safe . 8)) hc (pixel-width . 171) (pixel-height . 86) (total-width . 171) (total-height . 86) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (vc (pixel-width . 86) (pixel-height . 86) (total-width . 86) (total-height . 86) (normal-height . 1.0) (normal-width . 0.5029239766081872) (combination-limit) (leaf (pixel-width . 86) (pixel-height . 43) (total-width . 86) (total-height . 43) (normal-height . 0.5) (normal-width . 1.0) (buffer "imu.sql" (selected) (hscroll . 0) (fringes 0 0 nil) (margins 3) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 299) (start . 1))) (hc (last . t) (pixel-width . 86) (pixel-height . 43) (total-width . 86) (total-height . 43) (normal-height . 0.5) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 43) (pixel-height . 43) (total-width . 43) (total-height . 43) (normal-height . 1.0) (normal-width . 0.5) (buffer "imu.nimble" (selected) (hscroll . 0) (fringes 0 0 nil) (margins 2) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 1) (start . 1))) (leaf (last . t) (pixel-width . 43) (pixel-height . 43) (total-width . 43) (total-height . 43) (normal-height . 1.0) (normal-width . 0.5) (buffer "wiish.toml" (selected . t) (hscroll . 0) (fringes 0 0 nil) (margins 2) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 1) (start . 1))))) (vc (last . t) (pixel-width . 85) (pixel-height . 86) (total-width . 85) (total-height . 86) (normal-height . 1.0) (normal-width . 0.49707602339181284) (combination-limit) (hc (pixel-width . 85) (pixel-height . 43) (total-width . 85) (total-height . 43) (normal-height . 0.5) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 42) (pixel-height . 43) (total-width . 42) (total-height . 43) (normal-height . 1.0) (normal-width . 0.49411764705882355) (buffer "imu.sql" (selected) (hscroll . 0) (fringes 0 0 nil) (margins 3) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 1) (start . 1))) (leaf (last . t) (pixel-width . 43) (pixel-height . 43) (total-width . 43) (total-height . 43) (normal-height . 1.0) (normal-width . 0.5058823529411764) (buffer "run.sh" (selected) (hscroll . 0) (fringes 0 0 nil) (margins 1) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 1) (start . 1)))) (leaf (last . t) (pixel-width . 85) (pixel-height . 43) (total-width . 85) (total-height . 43) (normal-height . 0.5) (normal-width . 1.0) (buffer "ses.vim" (selected) (hscroll . 0) (fringes 0 0 nil) (margins 3) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 1) (start . 1))))) (((minibuffer . t) (tty-type . "xterm-256color") (tty . "/dev/tty") (display-type . color) (background-mode . dark) (foreground-color . "white") (cursor-color . "yellow") (background-color . "black") (border-color . "white") (mouse-color . "white") (font . "tty") (height . 87) (width . 171) (modeline . t) (unsplittable) (menu-bar-lines . 1) (frameset--id . "01B7-7A9C-C5D1-45D4") (frameset--mini t) (buffer-list "Unprintable entity" "Unprintable entity") (buried-buffer-list "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity")) ((min-height . 4) (min-width . 10) (min-height-ignore . 2) (min-width-ignore . 3) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 4) (min-pixel-width . 10) (min-pixel-height-ignore . 2) (min-pixel-width-ignore . 3) (min-pixel-height-safe . 1) (min-pixel-width-safe . 2)) leaf (pixel-width . 171) (pixel-height . 86) (total-width . 171) (total-height . 86) (normal-height . 1.0) (normal-width . 1.0) (buffer "lisp" (selected) (hscroll . 0) (fringes 0 0 nil) (margins 1) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 347) (start . 1))))] "C1F4-19E5-0764-1B06" (let ((mk (make-marker))) (add-hook 'desktop-delay-hook `(lambda nil (set-marker ,mk ,1 (get-buffer ,"wiish.toml")))) mk)) 'frameset--print-register 'frameset--jump-to-register nil)) (desktop-list* 50 (vector 'registerv (vector [frameset 1 (23901 19052 425927 241000) register nil nil nil ((((minibuffer . t) (height . 87) (width . 171) (visibility) (display) (tty-type . "xterm-256color") (tty . "/dev/tty") (display-type . color) (background-mode . dark) (foreground-color . "white") (background-color . "black") (border-color . "white") (cursor-color . "yellow") (mouse-color . "white") (font . "tty") (modeline . t) (unsplittable) (menu-bar-lines . 1) (frameset--id . "C1F4-19E5-0764-1B06") (frameset--mini t) (buffer-list "Unprintable entity") (buried-buffer-list)) ((min-height . 8) (min-width . 40) (min-height-ignore . 4) (min-width-ignore . 16) (min-height-safe . 2) (min-width-safe . 8) (min-pixel-height . 8) (min-pixel-width . 40) (min-pixel-height-ignore . 4) (min-pixel-width-ignore . 16) (min-pixel-height-safe . 2) (min-pixel-width-safe . 8)) hc (pixel-width . 171) (pixel-height . 86) (total-width . 171) (total-height . 86) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (vc (pixel-width . 86) (pixel-height . 86) (total-width . 86) (total-height . 86) (normal-height . 1.0) (normal-width . 0.5029239766081872) (combination-limit) (leaf (pixel-width . 86) (pixel-height . 43) (total-width . 86) (total-height . 43) (normal-height . 0.5) (normal-width . 1.0) (buffer "imu" (selected) (hscroll . 0) (fringes 0 0 nil) (margins 2) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 336) (start . 1))) (hc (last . t) (pixel-width . 86) (pixel-height . 43) (total-width . 86) (total-height . 43) (normal-height . 0.5) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 43) (pixel-height . 43) (total-width . 43) (total-height . 43) (normal-height . 1.0) (normal-width . 0.5) (buffer "imu" (selected) (hscroll . 0) (fringes 0 0 nil) (margins 2) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 336) (start . 1))) (leaf (last . t) (pixel-width . 43) (pixel-height . 43) (total-width . 43) (total-height . 43) (normal-height . 1.0) (normal-width . 0.5) (buffer "imu" (selected) (hscroll . 0) (fringes 0 0 nil) (margins 2) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 336) (start . 1))))) (vc (last . t) (pixel-width . 85) (pixel-height . 86) (total-width . 85) (total-height . 86) (normal-height . 1.0) (normal-width . 0.49707602339181284) (combination-limit) (hc (pixel-width . 85) (pixel-height . 43) (total-width . 85) (total-height . 43) (normal-height . 0.5) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 42) (pixel-height . 43) (total-width . 42) (total-height . 43) (normal-height . 1.0) (normal-width . 0.49411764705882355) (buffer "imu" (selected . t) (hscroll . 0) (fringes 0 0 nil) (margins 2) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 336) (start . 1))) (leaf (last . t) (pixel-width . 43) (pixel-height . 43) (total-width . 43) (total-height . 43) (normal-height . 1.0) (normal-width . 0.5058823529411764) (buffer "imu" (selected) (hscroll . 0) (fringes 0 0 nil) (margins 2) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 336) (start . 1)))) (leaf (last . t) (pixel-width . 85) (pixel-height . 43) (total-width . 85) (total-height . 43) (normal-height . 0.5) (normal-width . 1.0) (buffer "imu" (selected) (hscroll . 0) (fringes 0 0 nil) (margins 2) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 336) (start . 1))))) (((minibuffer . t) (tty-type . "xterm-256color") (tty . "/dev/tty") (display-type . color) (background-mode . dark) (foreground-color . "white") (cursor-color . "yellow") (background-color . "black") (border-color . "white") (mouse-color . "white") (font . "tty") (height . 87) (width . 171) (modeline . t) (unsplittable) (menu-bar-lines . 1) (frameset--id . "01B7-7A9C-C5D1-45D4") (frameset--mini t) (buffer-list "Unprintable entity" "Unprintable entity") (buried-buffer-list "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity")) ((min-height . 4) (min-width . 10) (min-height-ignore . 2) (min-width-ignore . 3) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 4) (min-pixel-width . 10) (min-pixel-height-ignore . 2) (min-pixel-width-ignore . 3) (min-pixel-height-safe . 1) (min-pixel-width-safe . 2)) leaf (pixel-width . 171) (pixel-height . 86) (total-width . 171) (total-height . 86) (normal-height . 1.0) (normal-width . 1.0) (buffer "lisp" (selected) (hscroll . 0) (fringes 0 0 nil) (margins 1) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 347) (start . 1))))] "C1F4-19E5-0764-1B06" (let ((mk (make-marker))) (add-hook 'desktop-delay-hook `(lambda nil (set-marker ,mk ,336 (get-buffer ,"imu")))) mk)) 'frameset--print-register 'frameset--jump-to-register nil)) '(114 "  lrwxrwxrwx  1 ivan ivan      20 jun 20 00:22 devel" "  -rw-r--r--  1 ivan ivan    4855 oct 29  2017 .dir_" "  -rw-r--r--  1 ivan ivan      26 jun 19 20:23 .dmrc" "  drwxr-xr-x  2 ivan ivan    4096 jun 19 20:23 Docum" "  drwxr-xr-x  3 ivan ivan    4096 ago  8 18:10 Downl" "  drwxr-xr-x  2 ivan ivan    4096 ago 19 06:49 .elec" "  drwx------  3 ivan ivan    4096 jul  5 15:37 .elec" "  -rw-r--r--  1 ivan ivan    7864 ago 21 08:12 .emac" "  -rw-r--r--  1 ivan ivan    6342 ago 21 06:36 .emac" "  -rw-r--r--  1 ivan ivan    5386 jun 24 18:54 .emac" "  -rw-r--r--  1 ivan ivan    2373 jun 25 09:16 .emac" "  drwx------  8 ivan ivan    4096 ago 21 08:14 .emac" "  drwx------  4 ivan ivan    4096 jun 24 18:56 .emac" "  -rw-r--r--  1 ivan ivan    4246 ago 20 15:18 .emac" "  -rw-r--r--  1 ivan ivan       5 ago 20 15:04 .emac") (desktop-list* 49 (vector 'registerv (vector [frameset 1 (23901 16091 136607 623000) register nil nil nil ((((minibuffer . t) (tty-type . "xterm-256color") (tty . "/dev/tty") (display-type . color) (background-mode . dark) (foreground-color . "white") (cursor-color . "yellow") (background-color . "black") (border-color . "white") (mouse-color . "white") (font . "tty") (height . 87) (width . 382) (modeline . t) (unsplittable) (menu-bar-lines . 1) (frameset--id . "C1F4-19E5-0764-1B06") (frameset--mini t) (buffer-list "Unprintable entity" "Unprintable entity") (buried-buffer-list "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity")) ((min-height . 8) (min-width . 40) (min-height-ignore . 4) (min-width-ignore . 16) (min-height-safe . 2) (min-width-safe . 8) (min-pixel-height . 8) (min-pixel-width . 40) (min-pixel-height-ignore . 4) (min-pixel-width-ignore . 16) (min-pixel-height-safe . 2) (min-pixel-width-safe . 8)) hc (pixel-width . 382) (pixel-height . 86) (total-width . 382) (total-height . 86) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (vc (pixel-width . 191) (pixel-height . 86) (total-width . 191) (total-height . 86) (normal-height . 1.0) (normal-width . 0.5) (combination-limit) (leaf (pixel-width . 191) (pixel-height . 43) (total-width . 191) (total-height . 43) (normal-height . 0.5) (normal-width . 1.0) (buffer "imu" (selected) (hscroll . 0) (fringes 0 0 nil) (margins 2) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 336) (start . 1))) (hc (last . t) (pixel-width . 191) (pixel-height . 43) (total-width . 191) (total-height . 43) (normal-height . 0.5) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 96) (pixel-height . 43) (total-width . 96) (total-height . 43) (normal-height . 1.0) (normal-width . 0.5) (buffer "imu" (selected) (hscroll . 0) (fringes 0 0 nil) (margins 2) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 336) (start . 1))) (leaf (last . t) (pixel-width . 95) (pixel-height . 43) (total-width . 95) (total-height . 43) (normal-height . 1.0) (normal-width . 0.5) (buffer "imu" (selected) (hscroll . 0) (fringes 0 0 nil) (margins 2) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 336) (start . 1))))) (vc (last . t) (pixel-width . 191) (pixel-height . 86) (total-width . 191) (total-height . 86) (normal-height . 1.0) (normal-width . 0.5) (combination-limit) (hc (pixel-width . 191) (pixel-height . 43) (total-width . 191) (total-height . 43) (normal-height . 0.5) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 96) (pixel-height . 43) (total-width . 96) (total-height . 43) (normal-height . 1.0) (normal-width . 0.5) (buffer "imu" (selected . t) (hscroll . 0) (fringes 0 0 nil) (margins 2) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 336) (start . 1))) (leaf (last . t) (pixel-width . 95) (pixel-height . 43) (total-width . 95) (total-height . 43) (normal-height . 1.0) (normal-width . 0.5) (buffer "imu" (selected) (hscroll . 0) (fringes 0 0 nil) (margins 2) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 336) (start . 1)))) (leaf (last . t) (pixel-width . 191) (pixel-height . 43) (total-width . 191) (total-height . 43) (normal-height . 0.5) (normal-width . 1.0) (buffer "imu" (selected) (hscroll . 0) (fringes 0 0 nil) (margins 2) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 336) (start . 1))))))] "C1F4-19E5-0764-1B06" (let ((mk (make-marker))) (add-hook 'desktop-delay-hook `(lambda nil (set-marker ,mk ,336 (get-buffer ,"imu")))) mk)) 'frameset--print-register 'frameset--jump-to-register nil))))
+(setq file-name-history '("~/.emacs.d/lisp/" "~/" "~/.emacs.d/"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/mnt/sda5/ivan/devel/Synachy/src/imu/wiish.toml"
+  "wiish.toml"
+  'conf-toml-mode
+  '(linum-mode indent-guide-mode company-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 23901 19106 614663 421000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "imu"
+  'dired-mode
+  '(linum-mode company-mode)
+  1349
+  '(nil nil)
+  t
+  '("/mnt/sda5/ivan/devel/Synachy/src/imu/")
+  '((buffer-display-time 23901 19046 92476 994000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/mnt/sda5/ivan/devel/Synachy/src/imu/imu.nimble"
+  "imu.nimble"
+  'nimscript-mode
+  '(eldoc-mode linum-mode indent-guide-mode column-enforce-mode company-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-display-time 23901 19106 614663 314000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/mnt/sda5/ivan/devel/Synachy/src/imu/imu.sql"
+  "imu.sql"
+  'sql-mode
+  '(linum-mode indent-guide-mode column-enforce-mode company-mode)
+  299
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 23901 19106 614663 584000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/mnt/sda5/ivan/devel/Synachy/src/imu/ses.vim"
+  "ses.vim"
+  'fundamental-mode
+  '(linum-mode indent-guide-mode company-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 23901 19106 614663 795000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/mnt/sda5/ivan/devel/Synachy/src/imu/run.sh"
+  "run.sh"
+  'sh-mode
+  '(linum-mode indent-guide-mode column-enforce-mode company-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 23901 19106 614663 648000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "lisp"
+  'dired-mode
+  '(linum-mode company-mode)
+  347
+  '(nil nil)
+  t
+  '("/home/ivan/.emacs.d/lisp/")
+  '((buffer-display-time 23901 19045 953800 603000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/mnt/sda5/ivan/devel/Synachy/src/imu/monitor.sh"
+  "monitor.sh"
+  'sh-mode
+  '(linum-mode indent-guide-mode column-enforce-mode company-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 23901 19039 849567 91000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "garbage"
+  'dired-mode
+  '(linum-mode company-mode)
+  228
+  '(nil nil)
+  t
+  '("/home/ivan/garbage/")
+  '((buffer-display-time 23901 18782 342995 981000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "ivan"
+  'dired-mode
+  '(linum-mode company-mode)
+  2265
+  '(1041 nil)
+  t
+  '("/home/ivan/")
+  '((buffer-display-time 23901 18772 435724 113000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/ivan/.emacs"
+  ".emacs"
+  'emacs-lisp-mode
+  '(eldoc-mode linum-mode indent-guide-mode column-enforce-mode company-mode)
+  88
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 23901 18613 957420 548000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  ".emacs.d"
+  'dired-mode
+  '(linum-mode company-mode)
+  116
+  '(nil nil)
+  t
+  '("/home/ivan/.emacs.d/")
+  '((buffer-display-time 23901 17935 380513 278000))
+  '((mark-ring nil)))
+

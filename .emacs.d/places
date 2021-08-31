@@ -1,0 +1,26 @@
+;;; -*- coding: utf-8 -*-
+(("/home/ivan/.emacs.d/"
+  (dired-filename . "/home/ivan/.emacs.d/."))
+ ("/mnt/sda5/ivan/devel/Synachy/src/imu/"
+  (dired-filename . "/mnt/sda5/ivan/devel/Synachy/src/imu/dist"))
+ ("/home/ivan/.emacs" . 88)
+ ("/home/ivan/"
+  (dired-filename . "/home/ivan/garbage"))
+ ("/home/ivan/garbage/" . 228)
+ ("/home/ivan/.emacs.d/lisp/"
+  (dired-filename . "/home/ivan/.emacs.d/lisp/frame-restore.el"))
+ ("/home/ivan/.AndroidStudio3.4/"
+  (dired-filename . "/home/ivan/.AndroidStudio3.4/config"))
+ ("/home/ivan/ApkProjects/"
+  (dired-filename . "/home/ivan/ApkProjects/.."))
+ ("/mnt/sda5/ivan/devel/Synachy/src/site_gen/"
+  (dired-filename . "/mnt/sda5/ivan/devel/Synachy/src/site_gen/.."))
+ ("/mnt/sda5/ivan/devel/Synachy/src/"
+  (dired-filename . "/mnt/sda5/ivan/devel/Synachy/src/.."))
+ ("/home/ivan/devel/Synachy/src/imu/web/"
+  (dired-filename . "/home/ivan/devel/Synachy/src/imu/web/src"))
+ ("/home/ivan/devel/Synachy/src/imu/web/src/"
+  (dired-filename . "/home/ivan/devel/Synachy/src/imu/web/src/index.nim"))
+ ("/home/ivan/devel/Synachy/src/imu/web/src/index.nim" . 64)
+ ("/home/ivan/devel/Synachy/src/imu/"
+  (dired-filename . "/home/ivan/devel/Synachy/src/imu/server")))

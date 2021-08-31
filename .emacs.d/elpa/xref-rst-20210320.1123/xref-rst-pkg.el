@@ -1,0 +1,2 @@
+;;; Generated package description from /home/ivan/.emacs.d/elpa/xref-rst-20210320.1123/xref-rst.el  -*- no-byte-compile: t -*-
+(define-package "xref-rst" "20210320.1123" "Lookup reStructuredText symbols" '((emacs "26.1")) :commit "f5bcb89e026562abb8da4ea337457d43fed2e71b" :authors '(("Campbell Barton" . "ideasman42@gmail.com")) :maintainer '("Campbell Barton" . "ideasman42@gmail.com") :url "https://gitlab.com/ideasman42/emacs-xref-rst")

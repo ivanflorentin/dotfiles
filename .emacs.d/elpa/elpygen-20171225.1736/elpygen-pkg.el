@@ -1,0 +1,2 @@
+;;; Generated package description from /home/ivan/.emacs.d/elpa/elpygen-20171225.1736/elpygen.el  -*- no-byte-compile: t -*-
+(define-package "elpygen" "20171225.1736" "Generate a Python function/method using a symbol under point" '((emacs "25") (yasnippet "0.8.0")) :commit "21929c997a05968f9eefe52b85a76ceaab3b0d81" :authors '(("Vladimir Kazanov" . "vkazanov@inbox.ru")) :maintainer '("Vladimir Kazanov" . "vkazanov@inbox.ru") :keywords '("python" "languages" "tools") :url "https://github.com/vkazanov/elpygen")

@@ -1,0 +1,31 @@
+;; -*- mode: emacs-lisp; lexical-binding:t; coding: utf-8-emacs; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Mon Jul 12 13:26:50 2021
+;; Desktop file format version 208
+;; Emacs version 27.2
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (24812 31578 123159 775000) (desktop . "208") "ivan@rd8" nil nil ((((minibuffer . t) (tty-type . "xterm-256color") (tty . "/dev/tty") (display-type . color) (background-mode . dark) (cursor-color . "#f57e00") (foreground-color . "#AAB0AB") (background-color . "#1a1a1a") (frameset--id . "E078-E0E1-4E01-661B") (frameset--mini t) (font . "tty") (height . 38) (width . 173) (modeline . t) (unsplittable) (menu-bar-lines . 1) (tab-bar-lines . 0)) ((min-height . 4) (min-width . 10) (min-height-ignore . 2) (min-width-ignore . 2) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 4) (min-pixel-width . 10) (min-pixel-height-ignore . 2) (min-pixel-width-ignore . 2) (min-pixel-height-safe . 1) (min-pixel-width-safe . 2)) leaf (pixel-width . 173) (pixel-height . 37) (total-width . 173) (total-height . 37) (normal-height . 1.0) (normal-width . 1.0) (buffer "init.el" (selected . t) (hscroll . 0) (fringes 0 0 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 1049) (start . 739)) (prev-buffers ("*scratch*" 1 146))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring nil)
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("~/.emacs.d/"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/home/ivan/.emacs.d/init.el"
+  "init.el"
+  'emacs-lisp-mode
+  '(eldoc-mode)
+  1049
+  '(164 nil)
+  nil
+  nil
+  '((buffer-display-time 24812 31571 971623 653000) (buffer-file-coding-system . prefer-utf-8-unix))
+  '((mark-ring nil)))
+

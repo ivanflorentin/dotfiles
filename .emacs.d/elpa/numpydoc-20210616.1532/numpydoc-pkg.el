@@ -1,0 +1,2 @@
+;;; Generated package description from numpydoc.el  -*- no-byte-compile: t -*-
+(define-package "numpydoc" "20210616.1532" "NumPy style docstring insertion" '((emacs "25.1") (s "1.12.0") (dash "2.18.0")) :commit "9209d52ddf43eddc983763b77f6932be61982475" :authors '(("Doug Davis" . "ddavis@ddavis.io")) :maintainer '("Doug Davis" . "ddavis@ddavis.io") :keywords '("convenience") :url "https://github.com/douglasdavis/numpydoc.el")
